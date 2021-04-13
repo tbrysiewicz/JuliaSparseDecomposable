@@ -1,0 +1,10 @@
+name = "SparseDecomposable"
+uuid = "d9144938-9491-413d-9097-06586a4c98f5"
+authors = ["tbrysiewicz <taylorbrysiewicz@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
+HomotopyContinuation = "f213a82b-91d6-5c5d-acf7-10f1c761b327"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+SmithNormalForm = "ba71f38f-f508-439b-ac77-437f86a20aa1"
